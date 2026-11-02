@@ -1,6 +1,6 @@
 name: 本文の誤り
 description: 本文の誤り（OCR の誤認識・脱字・ルビの混入など）を知らせる
-title: "[修正案] 馬内侍集（国立公文書館蔵写本 底本） "
+title: "[修正案] 馬内侍集（続群書類従 底本） "
 labels: ["修正案"]
 body:
   - type: markdown
