@@ -1,8 +1,8 @@
-# 馬内侍集（続群書類従本）（うまのないししゅう）
+# 馬内侍集（国立公文書館蔵写本 底本）（うまのないししゅう）
 
 雲居の文庫（くもゐのふみぐら）の一作品です。著作権の保護期間が満了した写本から起こした本文を、誰でも読み・使い・直せるように置いています。
 
-**サイトで読む：[馬内侍集（続群書類従本）（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=zoku-gunsho-umanonaishi-shu)**（原本の画像の表示、修正案の送信ができます）
+**サイトで読む：[馬内侍集（国立公文書館蔵写本 底本）（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=zoku-gunsho-umanonaishi-shu)**（原本の画像の表示、修正案の送信ができます）
 
 | | |
 |---|---|
